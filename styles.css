@@ -1,0 +1,48 @@
+.title {
+    color: #ffffff;
+    font-size: 400%;
+    text-align: center;
+}
+
+body{ 
+    background-color: #18443B;
+}
+
+
+p {
+    color: white;
+}
+
+h2 {
+    color:white;
+}
+
+h3 {
+    color:white;
+}
+
+.box {
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+    border: 5px solid black;
+    background-color: #00274C;
+    
+}
+
+.center {
+    text-align:center
+}
+
+.p-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.scum {
+    font-size: 300%;
+    color: #FFCB05;
+    text-align: center;
+}
