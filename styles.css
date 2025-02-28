@@ -8,7 +8,7 @@ h1 {
 }
 
 body {
-    background-image: url("Index-Photos/game-bg-image.webp");
+    background-image: "Index-Photos/game-bg-image.webp";
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
